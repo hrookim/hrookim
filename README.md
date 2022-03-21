@@ -14,15 +14,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-C3FC23?style=flat-square&logo=PyCharm&logoColor=black"/>  </p>
 
 
-<div align="center">
-    [![HR's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrookim&theme=buefy&show_icons=true&hide_title=true)](https://github.com/hrookim/github-readme-stats)
-</div>
-
-
-
-
-
-<br>
+[![HR's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrookim&theme=buefy&show_icons=true&hide_title=true)](https://github.com/hrookim/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hrookim)](https://solved.ac/hrookim)

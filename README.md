@@ -1,42 +1,118 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=hrookim%20&fontSize=50&fontColor=fdfcfd&fontAlign=80)
+<h1>Hi, I'm HyeRim</h1>
 
-<h1 align="center">Hi, I'm HyeRim:hatching_chick:</h1>
-
-<h3 align="center">Learning:pencil2:</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/NodeRED-8F0000?style=flat-square&logo=nodered&logoColor=white"/> </div>
-
-
-
-
-
-
-<h3 align="center">Using:computer:</h3>
-
-
-<div align="center">
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-C3FC23?style=flat-square&logo=PyCharm&logoColor=black"/>  </div>
-
+- 💻 I am a Frontend developer
+- 💙 I love exploring new tech stack and leveraging them to build cool stuffs
+- 🌱 I’m currently learning TypeScript and Webpack
+- 📝 Ask me anything on my issues page
+- 📧 Connect with me on [instagram](https://instagram.com/dv_hroo)
 
 <br>
+<table width="100%">
+    <tr>
+        <td colspan="2" align="center">
+            <h4><code>Tech Tools</code></h4>
+        </td>
+    </tr>
+    <tr>
+    	<td align="center">
+            <code><b>Frontend</b></code>
+        </td>
+        <td align="center">
+            <p>
+                <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+                <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+                <code><img title="CSS" height="30" src="images/css.svg"></code>
+                <code><img title="React" height="30" src="images/react-original.svg"></code>
+                <code><img title="Redux" height="30" src="images/redux.svg"></code>
+                <code><img title="SASS" height="30" src="images/sass.svg"></code>
+                <code><img title="webpack" height="30" src="images/webpack.svg"></code>
+                <code><img title="vuejs" height="25" src="images/vuejs.svg"></code>
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <code><b>others</b></code>
+        </td>
+        <td align="center">
+            <p>
+                <code><img title="Python" height="30" src="images/python-original.svg"></code>
+                <code><img title="Django" height="30" src="images/django.png"></code>
+                <code><img title="npm" height="30" src="images/npm.svg"></code>
+                <code><img title="nodered" height="25" src="images/node-red.svg"></code>
+            </p>
+        </td>
+    </tr>
+</table>
+
 <br>
 
-<div align="center">
-  <a href="https://github.com/hrookim">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=hrookim&theme=buefy&hide_title=true&show_icons=true"/> 
-  <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hrookim" ></a>
-</div>
-
+<table width="100%">
+    <tr>
+        <td colspan="3" align="center">
+            <h4><code>Projects</code></h4>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img title="U-R-IN" width="40" src="images/pjt-urin"></img>
+        </td>
+    	<td align="center">
+            <a href="https://github.com/hrookim/U-R-IN">
+            <code><b>U R IN</b></code>
+            </a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                삼성청년SW아카데미 7기 공통프로젝트
+                </li>
+                <li>
+                AI분석 면접스터디 플랫폼
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img title="dashboard" width="40" src="images/pjt-dashboard"></img>
+        </td>
+        <td align="center">
+            <a href="https://github.com/SoopSASM/SamsungAutomationStudio">
+            <code><b>Dashboard node</b></code>
+            </a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                삼성청년SW아카데미 7기 삼성전자연계(SSDC)프로젝트
+                </li>
+                <li>
+                SmartThings 기기를 활용한 Node-RED 오픈소스 대시보드
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img title="meeplo" width="40" src="images/pjt-meeplo"></img>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MEEPLO/MEEPLO">
+            <code><b>Meeplo</b></code>
+            </a>
+        </td>
+        <td>
+            <ul>
+                <li>
+                삼성청년SW아카데미 7기 자율프로젝트
+                </li>
+                <li>
+                어디서 만날지 추천받고, 함께한 기록을 남길 수 있는 애플리케이션
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 <br>
-
-<div align="center" style="display: block">
-  <p align="center" style="color: gray">Contact:raising_hand_woman: </p>
-  <a href="https://instagram.com/dv_hroo"><img height="20em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=f9fd13"></a>
-  <a href = "mailto:hrookim@gmail.com"><img height="20em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
-</div>
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)

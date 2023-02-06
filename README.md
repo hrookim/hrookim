@@ -62,8 +62,8 @@
             <code><b>U R IN</b></code>
             </a>
         </td>
-        <td style="display: flex; align-items: center;">
-            <ul>
+        <td>
+            <ul style="margin-bottom: 0;">
                 <li>
                 삼성청년SW아카데미 7기 공통프로젝트
                 </li>
@@ -82,8 +82,8 @@
             <code><b>Dashboard node</b></code>
             </a>
         </td>
-        <td style="display: flex; align-items: center;">
-            <ul>
+        <td>
+            <ul style="margin-bottom: 0;">
                 <li>
                 삼성청년SW아카데미 7기 삼성전자연계(SSDC)프로젝트
                 </li>
@@ -102,8 +102,8 @@
             <code><b>Meeplo</b></code>
             </a>
         </td>
-        <td  style="display: flex; align-items: center;">
-            <ul>
+        <td>
+            <ul style="margin-bottom: 0;">
                 <li>
                 삼성청년SW아카데미 7기 자율프로젝트
                 </li>

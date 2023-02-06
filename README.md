@@ -63,14 +63,12 @@
             </a>
         </td>
         <td>
-            <ul style="margin-bottom: 0;">
-                <li>
-                삼성청년SW아카데미 7기 공통프로젝트
-                </li>
-                <li>
-                AI분석 면접스터디 플랫폼
-                </li>
-            </ul>
+            <li>
+            삼성청년SW아카데미 7기 공통프로젝트
+            </li>
+            <li>
+            AI분석 면접스터디 플랫폼
+            </li>
         </td>
     </tr>
     <tr>
@@ -83,14 +81,12 @@
             </a>
         </td>
         <td>
-            <ul style="margin-bottom: 0;">
-                <li>
-                삼성청년SW아카데미 7기 삼성전자연계(SSDC)프로젝트
-                </li>
-                <li>
-                SmartThings 기기를 활용한 Node-RED 오픈소스 대시보드
-                </li>
-            </ul>
+            <li>
+            삼성청년SW아카데미 7기 삼성전자연계(SSDC)프로젝트
+            </li>
+            <li>
+            SmartThings 기기를 활용한 Node-RED 오픈소스 대시보드
+            </li>
         </td>
     </tr>
     <tr>
@@ -103,14 +99,12 @@
             </a>
         </td>
         <td>
-            <ul style="margin-bottom: 0;">
-                <li>
-                삼성청년SW아카데미 7기 자율프로젝트
-                </li>
-                <li>
-                어디서 만날지 추천받고, 함께한 기록을 남길 수 있는 애플리케이션
-                </li>
-            </ul>
+            <li>
+            삼성청년SW아카데미 7기 자율프로젝트
+            </li>
+            <li>
+            어디서 만날지 추천받고, 함께한 기록을 남길 수 있는 애플리케이션
+            </li>
         </td>
     </tr>
 </table>

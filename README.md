@@ -7,10 +7,10 @@
 - 📧 Connect with me on [instagram](https://instagram.com/dv_hroo)
 
 <br>
-<table width="100%">
+<table style="width:80%">
     <tr>
         <td colspan="2" align="center">
-            <h4><code>Tech Tools</code></h4>
+            <h3><code>Tech Tools</code></h3>
         </td>
     </tr>
     <tr>
@@ -47,10 +47,10 @@
 
 <br>
 
-<table width="100%">
+<table style="width:80%">
     <tr>
         <td colspan="3" align="center">
-            <h4><code>Projects</code></h4>
+            <h3><code>Projects</code></h3>
         </td>
     </tr>
     <tr>

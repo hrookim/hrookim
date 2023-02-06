@@ -63,7 +63,7 @@
             </a>
         </td>
         <td>
-            <ul>
+            <ul style="align-items: center">
                 <li>
                 삼성청년SW아카데미 7기 공통프로젝트
                 </li>
@@ -83,7 +83,7 @@
             </a>
         </td>
         <td>
-            <ul>
+            <ul style="align-items: center">
                 <li>
                 삼성청년SW아카데미 7기 삼성전자연계(SSDC)프로젝트
                 </li>
@@ -103,7 +103,7 @@
             </a>
         </td>
         <td>
-            <ul>
+            <ul style="align-items: center">
                 <li>
                 삼성청년SW아카데미 7기 자율프로젝트
                 </li>

@@ -58,9 +58,9 @@
             <img title="U-R-IN" width="40" src="images/pjt-urin"></img>
         </td>
     	<td align="center">
-            <a href="https://github.com/hrookim/U-R-IN">
-            <h3><code><b>U R IN</b></code></h3>
-            </a>
+            <h3><a href="https://github.com/hrookim/U-R-IN">
+            <code><b>U R IN</b></code>
+            </a></h3>
         </td>
         <td>
             <li>
@@ -76,9 +76,9 @@
             <img title="dashboard" width="40" src="images/pjt-dashboard"></img>
         </td>
         <td align="center">
-            <a href="https://github.com/SoopSASM/SamsungAutomationStudio">
-            <h3><code><b>Dashboard node</b></code></h3>
-            </a>
+            <h3><a href="https://github.com/SoopSASM/SamsungAutomationStudio">
+            <code><b>Dashboard node</b></code>
+            </a></h3>
         </td>
         <td>
             <li>
@@ -94,9 +94,9 @@
             <img title="meeplo" width="40" src="images/pjt-meeplo"></img>
         </td>
         <td align="center">
-            <a href="https://github.com/MEEPLO/MEEPLO">
-            <h3><code><b>Meeplo</b></code></h3>
-            </a>
+            <h3><a href="https://github.com/MEEPLO/MEEPLO">
+            <code><b>Meeplo</b></code>
+            </a></h3>
         </td>
         <td>
             <li>

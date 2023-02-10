@@ -1,4 +1,4 @@
-<h1>Hi, I'm HyeRim</h1>
+# Hi, I'm HyeRim :cherry_blossom:
 
 - 💻 I am a Frontend developer
 - 💙 I love exploring new tech stack and leveraging them to build cool stuffs
@@ -10,18 +10,18 @@
 <table style="width:80%">
     <tr>
         <td colspan="2" align="center">
-            <h3><code>Tech Tools</code></h3>
+            <h2><code>Tech Tools</code></h2>
         </td>
     </tr>
     <tr>
     	<td align="center">
-            <code><b>Frontend</b></code>
+            <h3><code><b>Frontend</b></code></h3>
         </td>
         <td align="center">
             <p>
                 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-                <code><img title="HTML5" height="30" src="images/html5.svg"></code>
-                <code><img title="CSS" height="30" src="images/css.svg"></code>
+                <code><img title="HTML5" height="29" src="images/html5.svg"></code>
+                <code><img title="CSS" height="33" src="images/css.svg"></code>
                 <code><img title="React" height="30" src="images/react-original.svg"></code>
                 <code><img title="Redux" height="30" src="images/redux.svg"></code>
                 <code><img title="SASS" height="30" src="images/sass.svg"></code>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td align="center">
-            <code><b>others</b></code>
+            <h3><code><b>others</b></code></h3>
         </td>
         <td align="center">
             <p>
@@ -50,7 +50,7 @@
 <table style="width:80%;">
     <tr>
         <td colspan="3" align="center">
-            <h3><code>Projects</code></h3>
+            <h2><code>Projects</code></h2>
         </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
         </td>
     	<td align="center">
             <a href="https://github.com/hrookim/U-R-IN">
-            <code><b>U R IN</b></code>
+            <h3><code><b>U R IN</b></code></h3>
             </a>
         </td>
         <td>
@@ -77,7 +77,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/SoopSASM/SamsungAutomationStudio">
-            <code><b>Dashboard node</b></code>
+            <h3><code><b>Dashboard node</b></code></h3>
             </a>
         </td>
         <td>
@@ -95,7 +95,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/MEEPLO/MEEPLO">
-            <code><b>Meeplo</b></code>
+            <h3><code><b>Meeplo</b></code></h3>
             </a>
         </td>
         <td>

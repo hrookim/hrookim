@@ -58,7 +58,7 @@
             <img title="U-R-IN" width="40" src="images/pjt-urin"></img>
         </td>
     	<td align="center">
-            <h3><a href="https://github.com/hrookim/U-R-IN">
+            <h3>
             <code><b>U R IN</b></code>
             </a></h3>
         </td>
@@ -94,7 +94,7 @@
             <img title="meeplo" width="40" src="images/pjt-meeplo"></img>
         </td>
         <td align="center">
-            <h3><a href="https://github.com/MEEPLO/MEEPLO">
+            <h3>
             <code><b>Meeplo</b></code>
             </a></h3>
         </td>

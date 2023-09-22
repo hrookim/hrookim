@@ -7,15 +7,15 @@
 - 📧 Connect with me on [instagram](https://instagram.com/dv_hroo)
 
 <br>
-<table style="width:80%">
+<table style="width:100%">
     <tr>
         <td colspan="2" align="center">
-            <h2><code>Tech Tools</code></h2>
+            <h3><code>Tech Tools</code></h3>
         </td>
     </tr>
     <tr>
     	<td align="center">
-            <h3><code><b>Frontend</b></code></h3>
+            <code><b>Frontend</b></code>
         </td>
         <td align="center">
             <p>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td align="center">
-            <h3><code><b>others</b></code></h3>
+            <code><b>others</b></code>
         </td>
         <td align="center">
             <p>
@@ -50,7 +50,7 @@
 <table style="width:80%;">
     <tr>
         <td colspan="3" align="center">
-            <h2><code>Projects</code></h2>
+            <h3><code>Projects</code></h3>
         </td>
     </tr>
     <tr>
@@ -58,9 +58,7 @@
             <img title="U-R-IN" width="40" src="images/pjt-urin"></img>
         </td>
     	<td align="center">
-            <h3>
             <code><b>U R IN</b></code>
-            </a></h3>
         </td>
         <td>
             <li>
@@ -76,9 +74,9 @@
             <img title="dashboard" width="40" src="images/pjt-dashboard"></img>
         </td>
         <td align="center">
-            <h3><a href="https://github.com/SoopSASM/SamsungAutomationStudio">
+            <a href="https://github.com/SoopSASM/SamsungAutomationStudio">
             <code><b>Dashboard node</b></code>
-            </a></h3>
+            </a>
         </td>
         <td>
             <li>
@@ -94,9 +92,7 @@
             <img title="meeplo" width="40" src="images/pjt-meeplo"></img>
         </td>
         <td align="center">
-            <h3>
             <code><b>Meeplo</b></code>
-            </a></h3>
         </td>
         <td>
             <li>

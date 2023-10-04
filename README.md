@@ -1,4 +1,4 @@
-# Hi, I'm HyeRim :cherry_blossom:
+# Hi, I'm HyeRim
 
 - 💻 I am a Frontend developer
 - 💙 I love exploring new tech stack and leveraging them to build cool stuffs
